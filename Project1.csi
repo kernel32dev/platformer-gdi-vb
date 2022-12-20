@@ -1,0 +1,101 @@
+[History]
+1=#P0#=mb	#P1#=Damage	#P2#=SMWM/PlayerCls/Damage	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200603162640	#P7#=0	#P8#=8	.
+2=#P0#=mb	#P1#=InitializeStorageMod	#P2#=SMWM/StorageMod/InitializeStorageMod	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200512181625	#P7#=0	#P8#=93	.
+3=#P0#=mb	#P1#=HitQuestionBlock	#P2#=SMWM/FunctionsMod/HitQuestionBlock	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427110144	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=MasterInitialize	#P2#=SMWM/MainMod/MasterInitialize	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427110128	#P7#=0	#P8#=27	.
+5=#P0#=mb	#P1#=Die	#P2#=SMWM/EntityCls/Die	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427105929	#P7#=0	#P8#=4	.
+6=#P0#=mb	#P1#=TickEntities	#P2#=SMWM/EntityBag/TickEntities	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427105910	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=Tick	#P2#=SMWM/EntityCls/Tick	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427105754	#P7#=0	#P8#=10	.
+8=#P0#=mb	#P1#=RenderEntity	#P2#=SMWM/EntityCls/RenderEntity	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200427105531	#P7#=0	#P8#=5	.
+9=#P0#=mb	#P1#=PopRight	#P2#=SMWM/FunctionsMod/PopRight	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104855	#P7#=0	#P8#=4	.
+10=#P0#=mb	#P1#=HandleBlockCollision	#P2#=SMWM/PlayerCls/HandleBlockCollision	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104739	#P7#=0	#P8#=3	.
+11=#P0#=mb	#P1#=CFlip	#P2#=SMWM/FunctionsMod/CFlip	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104720	#P7#=0	#P8#=6	.
+12=#P0#=mb	#P1#=CreateFromMarkerBag	#P2#=SMWM/EntityBag/CreateFromMarkerBag	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104619	#P7#=0	#P8#=5	.
+13=#P0#=mb	#P1#=UpdateBlock	#P2#=SMWM/GridCls/UpdateBlock	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104455	#P7#=0	#P8#=9	.
+14=#P0#=mb	#P1#=AddBlockToList	#P2#=SMWM/StorageMod/AddBlockToList	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104319	#P7#=0	#P8#=1	.
+15=#P0#=mb	#P1#=MoveTo	#P2#=SMWM/PlayerCls/MoveTo	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427104125	#P7#=0	#P8#=58	.
+16=#P0#=mb	#P1#=IsSolidEx	#P2#=SMWM/PlayerCls/IsSolidEx	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427103659	#P7#=0	#P8#=4	.
+17=#P0#=mb	#P1#=CollectBlock	#P2#=SMWM/PlayerCls/CollectBlock	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200603162627	#P7#=0	#P8#=1	.
+18=#P0#=mb	#P1#=RDD	#P2#=SMWM/PlayerCls/RDD	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427103453	#P7#=0	#P8#=-2	.
+19=#P0#=mb	#P1#=CurrentPowerUp	#P2#=SMWM/PlayerCls/CurrentPowerUp [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200427103126	#P7#=0	#P8#=2	.
+20=#P0#=mb	#P1#=RenderIcon	#P2#=SMWM/FunctionsMod/RenderIcon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200427102919	#P7#=0	#P8#=15	.
+21=#P0#=mb	#P1#=TransparencyColor	#P2#=SMWM/GDIBuffer/TransparencyColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200426203347	#P7#=0	#P8#=11	.
+22=#P0#=mb	#P1#=Form_Activate	#P2#=SMWM/Form1/Form_Activate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200426203032	#P7#=0	#P8#=1	.
+23=#P0#=mb	#P1#=SafeBitBlt	#P2#=SMWM/FunctionsMod/SafeBitBlt	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426202814	#P7#=0	#P8#=25	.
+24=#P0#=mb	#P1#=DrawBackGround	#P2#=SMWM/StorageMod/DrawBackGround	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426202736	#P7#=0	#P8#=61	.
+25=#P0#=mb	#P1#=Form_Resize	#P2#=SMWM/Form1/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200426202107	#P7#=0	#P8#=28	.
+26=#P0#=mb	#P1#=QuickRender	#P2#=SMWM/Form1/QuickRender	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426202030	#P7#=0	#P8#=7	.
+27=#P0#=mb	#P1#=RenderToScreen	#P2#=SMWM/Form1/RenderToScreen	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426201953	#P7#=0	#P8#=12	.
+28=#P0#=mb	#P1#=ClearHoldingObj	#P2#=SMWM/Form1/ClearHoldingObj	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426201906	#P7#=0	#P8#=1	.
+29=#P0#=mb	#P1#=SetHoldingIcon	#P2#=SMWM/Form1/SetHoldingIcon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426201845	#P7#=0	#P8#=9	.
+30=#P0#=mb	#P1#=Picture	#P2#=SMWM/GDIBuffer/Picture [Set]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200426200900	#P7#=0	#P8#=2	.
+31=#P0#=mb	#P1#=SetHoldingObj	#P2#=SMWM/Form1/SetHoldingObj	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426200257	#P7#=0	#P8#=4	.
+32=#P0#=mb	#P1#=PrintGridBuffer	#P2#=SMWM/GridCls/PrintGridBuffer	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195841	#P7#=0	#P8#=1	.
+33=#P0#=mb	#P1#=RenderMarkers	#P2#=SMWM/MarkerBag/RenderMarkers	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195826	#P7#=0	#P8#=3	.
+34=#P0#=mb	#P1#=RenderHudText	#P2#=SMWM/FunctionsMod/RenderHudText	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195800	#P7#=0	#P8#=26	.
+35=#P0#=mb	#P1#=Redraw	#P2#=SMWM/MainMod/Redraw	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195737	#P7#=0	#P8#=45	.
+36=#P0#=mb	#P1#=RenderParticle	#P2#=SMWM/ParticleMod/RenderParticle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195509	#P7#=0	#P8#=1	.
+37=#P0#=mb	#P1#=RenderPlayer	#P2#=SMWM/PlayerCls/RenderPlayer	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200426195407	#P7#=0	#P8#=117	.
+38=#P0#=mb	#P1#=UpdateUIIcon	#P2#=SMWM/MainMod/UpdateUIIcon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426194406	#P7#=0	#P8#=15	.
+39=#P0#=mb	#P1#=TransColor	#P2#=SMWM/GDIBuffer/TransColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200426152314	#P7#=0	#P8#=0	.
+40=#P0#=mb	#P1#=W	#P2#=SMWM/GDIBuffer/W [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200426152234	#P7#=0	#P8#=3	.
+41=#P0#=mb	#P1#=TransBlt	#P2#=SMWM/Draw/TransBlt	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426151559	#P7#=0	#P8#=78	.
+42=#P0#=mb	#P1#=pCreate	#P2#=SMWM/GDIBuffer/pCreate	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200426151349	#P7#=0	#P8#=11	.
+43=#P0#=mb	#P1#=Class_Initialize	#P2#=SMWM/PlayerCls/Class_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200413204015	#P7#=0	#P8#=6	.
+44=#P0#=mb	#P1#=CurrentPowerUp	#P2#=SMWM/PlayerCls/CurrentPowerUp [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200413203833	#P7#=0	#P8#=1	.
+45=#P0#=mb	#P1#=MasterLoop	#P2#=SMWM/MainMod/MasterLoop	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200603162709	#P7#=0	#P8#=65	.
+46=#P0#=mb	#P1#=Reset	#P2#=SMWM/PlayerCls/Reset	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413151752	#P7#=0	#P8#=13	.
+47=#P0#=mb	#P1#=Tick	#P2#=SMWM/PlayerCls/Tick	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413150636	#P7#=0	#P8#=3	.
+48=#P0#=mb	#P1#=UpdateCap	#P2#=SMWM/Form1/UpdateCap	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413112800	#P7#=0	#P8#=1	.
+49=#P0#=mb	#P1#=IsSolidEx	#P2#=SMWM/EntityCls/IsSolidEx	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413111802	#P7#=0	#P8#=4	.
+50=#P0#=mb	#P1#=FormResize	#P2#=SMWM/EventsMod/FormResize	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413110641	#P7#=0	#P8#=15	.
+51=#P0#=mb	#P1#=IsSoundPlaying	#P2#=SMWM/FunctionsMod/IsSoundPlaying	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413105758	#P7#=0	#P8#=1	.
+52=#P0#=mb	#P1#=SetSoundEffect	#P2#=SMWM/FunctionsMod/SetSoundEffect	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413105735	#P7#=0	#P8#=13	.
+53=#P0#=mb	#P1#=Form_MouseUp	#P2#=SMWM/Form1/Form_MouseUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200413103326	#P7#=0	#P8#=-1	.
+54=#P0#=mb	#P1#=WaitUntil	#P2#=SMWM/MainMod/WaitUntil	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413095512	#P7#=0	#P8#=1	.
+55=#P0#=mb	#P1#=Main	#P2#=SMWM/MainMod/Main	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200413094801	#P7#=0	#P8#=1	.
+56=#P0#=mb	#P1#=Timer1_Timer	#P2#=SMWM/Form1/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200412213053	#P7#=0	#P8#=0	.
+57=#P0#=mb	#P1#=Form_KeyDown	#P2#=SMWM/Form1/Form_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200412162712	#P7#=0	#P8#=6	.
+58=#P0#=mb	#P1#=Form_Unload	#P2#=SMWM/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200412154747	#P7#=0	#P8#=-2	.
+59=#P0#=mb	#P1#=NewWndProc	#P2#=SMWM/SubClassingMod/NewWndProc	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200412153559	#P7#=0	#P8#=3	.
+60=#P0#=mb	#P1#=pDestroy	#P2#=SMWM/GDIBuffer/pDestroy	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200411113228	#P7#=0	#P8#=7	.
+61=#P0#=mb	#P1#=H	#P2#=SMWM/GDIBuffer/H [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200411113205	#P7#=0	#P8#=-1	.
+62=#P0#=mb	#P1#=W	#P2#=SMWM/GDIBuffer/W [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200411113155	#P7#=0	#P8#=0	.
+63=#P0#=mb	#P1#=SRect	#P2#=SMWM/Draw/SRect	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200411112034	#P7#=0	#P8#=3	.
+64=#P0#=mb	#P1#=SetBkMode	#P2#=SMWM/Draw/SetBkMode	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200411111948	#P7#=0	#P8#=-2	.
+65=#P0#=mb	#P1#=DrawText	#P2#=SMWM/Draw/DrawText	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200411111556	#P7#=0	#P8#=1	.
+66=#P0#=mb	#P1#=MasterTerminate	#P2#=SMWM/MainMod/MasterTerminate	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200411093553	#P7#=0	#P8#=5	.
+67=#P0#=mb	#P1#=KeyDown	#P2#=SMWM/EventsMod/KeyDown	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410195344	#P7#=0	#P8#=7	.
+68=#P0#=mb	#P1#=MouseDown	#P2#=SMWM/EventsMod/MouseDown	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410195338	#P7#=0	#P8#=6	.
+69=#P0#=mb	#P1#=MouseUp	#P2#=SMWM/EventsMod/MouseUp	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410195333	#P7#=0	#P8#=10	.
+70=#P0#=mb	#P1#=KillEntity	#P2#=SMWM/EntityBag/KillEntity	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410174252	#P7#=0	#P8#=2	.
+71=#P0#=mb	#P1#=EndPlayMode	#P2#=SMWM/MainMod/EndPlayMode	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410165116	#P7#=0	#P8#=7	.
+72=#P0#=mb	#P1#=PlaySound	#P2#=SMWM/FunctionsMod/PlaySound	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410165033	#P7#=0	#P8#=0	.
+73=#P0#=mb	#P1#=TickContact	#P2#=SMWM/EntityBag/TickContact	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410095755	#P7#=0	#P8#=1	.
+74=#P0#=mb	#P1#=IsEntityAlive	#P2#=SMWM/EntityBag/IsEntityAlive	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200410095741	#P7#=0	#P8#=5	.
+75=#P0#=mb	#P1#=MoveTo	#P2#=SMWM/EntityCls/MoveTo	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409162626	#P7#=0	#P8#=7	.
+76=#P0#=mb	#P1#=StopSound	#P2#=SMWM/FunctionsMod/StopSound	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409161242	#P7#=0	#P8#=0	.
+77=#P0#=mb	#P1#=AddEntityToList	#P2#=SMWM/StorageMod/AddEntityToList	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409143948	#P7#=0	#P8#=3	.
+78=#P0#=mb	#P1#=FindMarkerInRect	#P2#=SMWM/MarkerBag/FindMarkerInRect	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409143136	#P7#=0	#P8#=1	.
+79=#P0#=mb	#P1#=MouseMove	#P2#=SMWM/EventsMod/MouseMove	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409143118	#P7#=0	#P8#=51	.
+80=#P0#=mb	#P1#=FindMarkerInPos	#P2#=SMWM/MarkerBag/FindMarkerInPos	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409142857	#P7#=0	#P8#=14	.
+81=#P0#=mb	#P1#=SelectHotBarSlot	#P2#=SMWM/MainMod/SelectHotBarSlot	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409113938	#P7#=0	#P8#=0	.
+82=#P0#=mb	#P1#=StartPlayMode	#P2#=SMWM/MainMod/StartPlayMode	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409113527	#P7#=0	#P8#=6	.
+83=#P0#=mb	#P1#=PopLong	#P2#=SMWM/FunctionsMod/PopLong	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409101425	#P7#=0	#P8#=10	.
+84=#P0#=mb	#P1#=PushLong	#P2#=SMWM/FunctionsMod/PushLong	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200409101319	#P7#=0	#P8#=5	.
+85=#P0#=mb	#P1#=Form_MouseMove	#P2#=SMWM/Form1/Form_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200407161230	#P7#=0	#P8#=8	.
+86=#P0#=mb	#P1#=Form_KeyUp	#P2#=SMWM/Form1/Form_KeyUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200407161036	#P7#=0	#P8#=2	.
+87=#P0#=mb	#P1#=Form_MouseDown	#P2#=SMWM/Form1/Form_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200407161035	#P7#=0	#P8#=2	.
+88=#P0#=mb	#P1#=CursorVisible	#P2#=SMWM/Form1/CursorVisible [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200407160712	#P7#=0	#P8#=0	.
+89=#P0#=mb	#P1#=CursorVisible	#P2#=SMWM/Form1/CursorVisible [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200407160700	#P7#=0	#P8#=0	.
+90=#P0#=mb	#P1#=MouseVisible	#P2#=SMWM/Form1/MouseVisible [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200407160659	#P7#=0	#P8#=0	.
+91=#P0#=mb	#P1#=MouseVisible	#P2#=SMWM/Form1/MouseVisible [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200407160646	#P7#=0	#P8#=0	.
+92=#P0#=mb	#P1#=OnPlayMode	#P2#=SMWM/GridCls/OnPlayMode [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200407153731	#P7#=0	#P8#=13	.
+93=#P0#=mb	#P1#=FigureOutAnimationBufferCountNeeded	#P2#=SMWM/StorageMod/FigureOutAnimationBufferCountNeeded	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200407153650	#P7#=0	#P8#=10	.
+94=#P0#=mb	#P1#=MouseScroll	#P2#=SMWM/EventsMod/MouseScroll	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200407110016	#P7#=0	#P8#=5	.
+95=#P0#=mb	#P1#=KeyUp	#P2#=SMWM/EventsMod/KeyUp	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200406152557	#P7#=0	#P8#=7	.
+96=#P0#=mb	#P1#=SaveDataToFile	#P2#=SMWM/FunctionsMod/SaveDataToFile	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200406144905	#P7#=0	#P8#=-1	.
+97=#P0#=mb	#P1#=MarkerCount	#P2#=SMWM/MarkerBag/MarkerCount	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200406144607	#P7#=0	#P8#=5	.
+98=#P0#=mb	#P1#=Reset	#P2#=SMWM/MarkerBag/Reset	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200406143446	#P7#=0	#P8#=6	.
+99=#P0#=mb	#P1#=TimerEx2	#P2#=SMWM/FunctionsMod/TimerEx2	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200406143334	#P7#=0	#P8#=0	.
+100=#P0#=mb	#P1#=TickParticles	#P2#=SMWM/ParticleBag/TickParticles	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200405170347	#P7#=0	#P8#=9	.
